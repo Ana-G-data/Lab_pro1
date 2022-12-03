@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# rutas de mi repo que quiero ignorar
+/datos/Reports.csv
